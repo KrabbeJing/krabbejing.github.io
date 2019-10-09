@@ -23,8 +23,9 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
-  Welcome to my Blog. Here you can find my study notes and life essays.
+tagline: |
+  Welcome to my Blog. 
+  Here you can find my study notes and life essays.
   Let youth glitter in struggling!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
