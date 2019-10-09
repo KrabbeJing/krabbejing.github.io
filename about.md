@@ -4,21 +4,21 @@ title: About Me
 permalink: /about/
 ---
 
-#Linjing Wang
+# Linjing Wang
 
-##EDUCATION
-###Shandong University, China
+## EDUCATION
+### Shandong University, China
 * September 2013 - June 2017
 * Bachelor of Engineering, Computer Science and Technology
 * GPA 3.3
 
-###University of Southern California, USA
+### University of Southern California, USA
 * September 2013 - June 2017
 * Viterbi School of Engineering
 * Master of Science, Computer Science 
 * GPA 3.71
 
-##TECHNICAL SKILLS
+## TECHNICAL SKILLS
 * Programming Languages: 
     * Java, Python, C, PHP, SQL
 * Tools & Technologies: 
@@ -27,8 +27,8 @@ permalink: /about/
     * Game Design(Unity & C#)
     * Database(Oracle)
 
-##RESEARCH EXPERIENCE
-###Ebay Product Search Application
+## RESEARCH EXPERIENCE
+### Ebay Product Search Application
 * January 2019 - May 2019
 * Course personal project
 * A responsive client based on Angular 7 framework, using HTML5, CSS, and Bootstrap 4
@@ -42,7 +42,7 @@ permalink: /about/
     * similar product matching, etc. 
     * through Ebay API, Google Customized Search API and Facebook API
 
-###Information Retrieval and Web Search Engines 
+### Information Retrieval and Web Search Engines 
 * January 2019 - May 2019 
 * Course personal project
 * Implemented a crawler to crawl the seed website and generate reports based on Crawler4j
@@ -54,18 +54,18 @@ permalink: /about/
     * segment capture
     * keyword highlighting, etc.
 
-###Friend Recommendation based on Hadoop mapreduct
+### Friend Recommendation based on Hadoop mapreduct
 * October 2018 - November 2018
 * Course team project
 * Researched on the principle of Hadoop
 * Implemented friend recommendation algorithm based on second-degree connections using JAVA
 
-###Undergraduate Research Assistant
+### Undergraduate Research Assistant
 * February 2015 - June 2015
 * Researched academic papers related to machine learning, computer vision and biological pattern recognition
 * Assisted associated professor Changlong Jin (Deputy director of Department of computer science)
 
-###Railway Customer Service Center Project
+### Railway Customer Service Center Project
 * February 2016 - June 2016
 * Team Leader
 * Created project prototype ideas, collecting real data; produced presentation documents.
@@ -74,19 +74,19 @@ permalink: /about/
 * Took charge of implementation and management of database (Oracle); collaborated to design algorithms and logic; developed user management subsystem.
 
 ## INTERNSHIP EXPERIENCE
-###CMCC JIYANG BRANCH
+### CMCC JIYANG BRANCH
 * July 2016 - August 2016
 * Took part in construction and maintenance of Yingcai College network
 * made campus network and wireless network with same interface through integration of CMCC and school network interface
 * connected ONU and AP through switch, assigned IP to enable wired broadband access to user terminal using electrical switch
 * Integrated SMS function into internal mobile office application 
 
-##Find Me
+## Find Me
 * Github: [@KrabbeJing](https://github.com/KrabbeJing/)
 * LinkedIn: [@Linjing Wang](https://www.linkedin.com/in/linjingwang/)
 * Facebook: [@Wang Linjing](https://www.facebook.com/KrabbeJing)
 
-##Other Links
+## Other Links
 * CV in Chinese [View](https://docs.wixstatic.com/ugd/2bc39c_e79fae4e418b4a34ab53ebd79eb63ba6.pdf)
 * CV in English [View](https://docs.wixstatic.com/ugd/2bc39c_948f2bca97234383b5c2431cdd4a41e5.pdf)
 * Hadoop Project Report(in English) [View](https://docs.google.com/document/d/1COGC6vHa6j-9noh6HcUqCA50n_VCLL1wcYdHEd2jwA8/edit)
