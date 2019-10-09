@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 #Linjing Wang
----
+
 ##EDUCATION
 ###Shandong University, China
 * September 2013 - June 2017
@@ -17,7 +17,7 @@ permalink: /about/
 * Viterbi School of Engineering
 * Master of Science, Computer Science 
 * GPA 3.71
----
+
 ##TECHNICAL SKILLS
 * Programming Languages: 
     * Java, Python, C, PHP, SQL
@@ -26,7 +26,7 @@ permalink: /about/
     * Algorithms
     * Game Design(Unity & C#)
     * Database(Oracle)
----
+
 ##RESEARCH EXPERIENCE
 ###Ebay Product Search Application
 * January 2019 - May 2019
@@ -72,7 +72,7 @@ permalink: /about/
 * Led and organized a group; assigned tasks to 2 team members.
 * Using SSH framework, completed a train ticket booking & maintenance system, including user, ticket and administrator maintenance subsystems, based on B/S architecture.
 * Took charge of implementation and management of database (Oracle); collaborated to design algorithms and logic; developed user management subsystem.
----
+
 ## INTERNSHIP EXPERIENCE
 ###CMCC JIYANG BRANCH
 * July 2016 - August 2016
@@ -80,12 +80,12 @@ permalink: /about/
 * made campus network and wireless network with same interface through integration of CMCC and school network interface
 * connected ONU and AP through switch, assigned IP to enable wired broadband access to user terminal using electrical switch
 * Integrated SMS function into internal mobile office application 
----
+
 ##Find Me
 * Github: [@KrabbeJing](https://github.com/KrabbeJing/)
 * LinkedIn: [@Linjing Wang](https://www.linkedin.com/in/linjingwang/)
 * Facebook: [@Wang Linjing](https://www.facebook.com/KrabbeJing)
----
+
 ##Other Links
 * CV in Chinese [View](https://docs.wixstatic.com/ugd/2bc39c_e79fae4e418b4a34ab53ebd79eb63ba6.pdf)
 * CV in English [View](https://docs.wixstatic.com/ugd/2bc39c_948f2bca97234383b5c2431cdd4a41e5.pdf)
