@@ -3,8 +3,8 @@ title: KrabbeJing's Blog # your site title
 author: KrabbeJing # You :P
 description: > # Meta description of Homepage
   this is my Blog.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://KrabbeJing.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sleek" # the subpath of your site, e.g. /blog
+url: "https://KrabbeJing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
