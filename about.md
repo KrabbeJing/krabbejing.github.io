@@ -83,10 +83,10 @@ permalink: /about/
 
 ## Courses I learned in USC
 * CSCI561 Foundations of Artificial Intelligence(A)
-* CSCI570 Analysis of Algorithms(B)[Link]()
+* CSCI570 Analysis of Algorithms(B)
 * CSCI596 Scientific Computing and Visualization(A)
 * CSCI526 Advanced Mobile Devices and Game Consoles(A)
-* CSCI571 Web Technologies(B+)[Link]()
+* CSCI571 Web Technologies(B+)
 * CSCI572 Information Retrieval and Web Search Engines(A)
 * CSCI567 Machine Learning(In progress)
 
