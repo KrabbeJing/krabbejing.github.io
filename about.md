@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![Sleek Jekyll Theme](./BBJPic300x300.png)
+![picture of bbj](./BBJPic300x300.png)
 # Linjing Wang
 
 ## EDUCATION
@@ -96,6 +96,6 @@ permalink: /about/
 * Facebook: [@Wang Linjing](https://www.facebook.com/KrabbeJing)
 
 ## Other Links
-* CV in Chinese [View](https://docs.wixstatic.com/ugd/2bc39c_e79fae4e418b4a34ab53ebd79eb63ba6.pdf)
-* CV in English [View](https://docs.wixstatic.com/ugd/2bc39c_948f2bca97234383b5c2431cdd4a41e5.pdf)
+* CV in Chinese [View](./CV-WangLinjing-CN.pdf)
+* CV in English [View](./CV-WangLinjing-ENG.pdf)
 * Hadoop Project Report(in English) [View](https://docs.google.com/document/d/1COGC6vHa6j-9noh6HcUqCA50n_VCLL1wcYdHEd2jwA8/edit)
