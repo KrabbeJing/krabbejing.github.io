@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-
+![Sleek Jekyll Theme](./BBJPic.png)
 # Linjing Wang
 
 ## EDUCATION
