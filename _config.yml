@@ -3,8 +3,8 @@ title: KrabbeJing's Blog # your site title
 author: KrabbeJing # You :P
 description: > # Meta description of Homepage
   this is my Blog.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
-url: "https://KrabbeJing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://KrabbeJing.github.io/sleek" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -23,9 +23,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: |
-  Welcome to my Blog. 
-  Here you can find my study notes and life essays.
+tagline: >
   Let youth glitter in struggling!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
