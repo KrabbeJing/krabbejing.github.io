@@ -16,7 +16,7 @@ permalink: /about/
 * September 2013 - June 2017
 * Viterbi School of Engineering
 * Master of Science, Computer Science 
-* GPA 3.71
+* GPA 3.72
 
 ## TECHNICAL SKILLS
 * Programming Languages: 
@@ -80,6 +80,15 @@ permalink: /about/
 * made campus network and wireless network with same interface through integration of CMCC and school network interface
 * connected ONU and AP through switch, assigned IP to enable wired broadband access to user terminal using electrical switch
 * Integrated SMS function into internal mobile office application 
+
+## Courses I learned in USC
+* CSCI561 Foundations of Artificial Intelligence(A)
+* CSCI570 Analysis of Algorithms(B)[Link]()
+* CSCI596 Scientific Computing and Visualization(A)
+* CSCI526 Advanced Mobile Devices and Game Consoles(A)
+* CSCI571 Web Technologies(B+)[Link]()
+* CSCI572 Information Retrieval and Web Search Engines(A)
+* CSCI567 Machine Learning(In progress)
 
 ## Find Me
 * Github: [@KrabbeJing](https://github.com/KrabbeJing/)
