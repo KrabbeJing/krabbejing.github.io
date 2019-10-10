@@ -173,6 +173,7 @@ gulp.task( "img", () => {
         quality: 70,
         progressive: true,
         withMetadata: false,
+        format: "jpg",
         errorOnEnlargement: false,
         errorOnUnusedConfig: false,
         silent: true
