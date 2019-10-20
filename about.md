@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-![picture of bbj](./assets/files/BBJPic300x300.png)
+![picture of bbj](./assets/img/BBJPic300x300.png)
 # Linjing Wang
 
 ## EDUCATION
