@@ -13,26 +13,32 @@ permalink: /about/
 * GPA 3.3
 
 ### University of Southern California, USA
-* September 2013 - June 2017
+* Jan. 2018 - Dec. 2019
 * Viterbi School of Engineering
 * Master of Science, Computer Science 
-* GPA 3.72
+* GPA 3.7
 
 ## TECHNICAL SKILLS
 * Programming Languages: 
     * Java, Python, C, PHP, SQL
+* Deep learning Framework:
+    * PyTorch
 * Tools & Technologies: 
     * Responsive Web Design(Angular7 Framework)
     * Algorithms
     * Game Design(Unity & C#)
     * Database(Oracle)
 
+## WORK EXPERIENCE
+### Research Assistant @ Southern University of Science and Technology (SUSTech)
+* Work closely with [Dr. Yu Zhang](https://yuzhanghk.github.io/)
+
 ## RESEARCH EXPERIENCE
 ### Ebay Product Search Application
 * January 2019 - May 2019
 * Course personal project
 * A responsive client based on Angular 7 framework, using HTML5, CSS, and Bootstrap 4
-* The server was powered by Node.js (Google Cloud Platform)
+* The server was powered by Node.js (Google Cloud Platform Service)
 * Skilled in applying AJAX, JSON
 * Implemented functions: 
     * product search
@@ -54,9 +60,9 @@ permalink: /about/
     * segment capture
     * keyword highlighting, etc.
 
-### Friend Recommendation based on Hadoop mapreduct
+### Friend Recommendation based on Hadoop mapreduce
 * October 2018 - November 2018
-* Course team project
+* Course team project([slides](./assets/files/hadoop.pptx))
 * Researched on the principle of Hadoop
 * Implemented friend recommendation algorithm based on second-degree connections using JAVA
 
@@ -81,14 +87,14 @@ permalink: /about/
 * connected ONU and AP through switch, assigned IP to enable wired broadband access to user terminal using electrical switch
 * Integrated SMS function into internal mobile office application 
 
-## Courses I learned in USC
+## Courses I learned @ USC
 * CSCI561 Foundations of Artificial Intelligence(A)
 * CSCI570 Analysis of Algorithms(B)
 * CSCI596 Scientific Computing and Visualization(A)
 * CSCI526 Advanced Mobile Devices and Game Consoles(A)
 * CSCI571 Web Technologies(B+)
 * CSCI572 Information Retrieval and Web Search Engines(A)
-* CSCI567 Machine Learning(In progress)
+* CSCI567 Machine Learning(B+)
 
 ## Find Me
 * Github: [@KrabbeJing](https://github.com/KrabbeJing/)
@@ -96,6 +102,5 @@ permalink: /about/
 * Facebook: [@Wang Linjing](https://www.facebook.com/KrabbeJing)
 
 ## Other Links
-* CV in Chinese [View](./assets/files/CV-WangLinjing-CN.pdf)
-* CV in English [View](./assets/files/CV-WangLinjing-ENG.pdf)
+* CV in Chinese [View](./assets/files/WangLinjing-CV-CN.pdf)
 * Hadoop Project Report(in English) [View](https://docs.google.com/document/d/1COGC6vHa6j-9noh6HcUqCA50n_VCLL1wcYdHEd2jwA8/edit)
