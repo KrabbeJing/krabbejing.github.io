@@ -31,6 +31,7 @@ permalink: /about/
 
 ## WORK EXPERIENCE
 ### Research Assistant @ Southern University of Science and Technology (SUSTech)
+* April 2020 - Now
 * Work closely with [Dr. Yu Zhang](https://yuzhanghk.github.io/)
 
 ## RESEARCH EXPERIENCE
